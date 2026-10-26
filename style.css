@@ -149,7 +149,6 @@ li {
     overflow: auto;
 }
 
-        /* Última imagem maior e à direita */
 #imagem {
     display: block;
     float: right;
@@ -159,4 +158,14 @@ li {
     padding: 0;
     margin: 10px 0 15px 20px;
     border-radius: 5px;
-    }
+}
+
+.img1{
+    position: relative;
+    left: 30%;
+}
+
+.lista1{
+    background-color: rgb(172, 199, 235);
+    border: 5px solid black;
+}
